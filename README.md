@@ -1,1 +1,1 @@
-Hello Git
+Hello Git as master
